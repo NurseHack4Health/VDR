@@ -1,0 +1,32 @@
+<ImportExportXml version="9.2.21041.172" SolutionPackageVersion="9.2" languagecode="1033" generatedBy="CrmLive" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SolutionManifest>
+    <UniqueName>ExportComponentsfdd4037ccc764cdd8644ea17c1a103cc</UniqueName>
+    <LocalizedNames>
+      <LocalizedName description="ExportComponentsfdd4037ccc764cdd8644ea17c1a103cc" languagecode="1033" />
+    </LocalizedNames>
+    <Descriptions />
+    <Version>1.0</Version>
+    <Managed>0</Managed>
+    <Publisher>
+      <UniqueName>Crf079a</UniqueName>
+      <LocalizedNames>
+        <LocalizedName description="CDS Default Publisher" languagecode="1033" />
+      </LocalizedNames>
+      <Descriptions />
+      <EMailAddress xsi:nil="true"></EMailAddress>
+      <SupportingWebsiteUrl xsi:nil="true"></SupportingWebsiteUrl>
+      <CustomizationPrefix>cr2fe</CustomizationPrefix>
+      <CustomizationOptionValuePrefix>53689</CustomizationOptionValuePrefix>
+    </Publisher>
+    <RootComponents>
+      <RootComponent type="1" schemaName="cr2fe_alergies" behavior="0" />
+      <RootComponent type="1" schemaName="cr2fe_available_vaccines" behavior="0" />
+      <RootComponent type="1" schemaName="cr2fe_patientinfo" behavior="0" />
+      <RootComponent type="1" schemaName="cr2fe_users" behavior="0" />
+      <RootComponent type="1" schemaName="cr2fe_vaccinecategories" behavior="0" />
+      <RootComponent type="1" schemaName="cr2fe_vaccines" behavior="0" />
+      <RootComponent type="300" schemaName="cr2fe_divac_5e0cf" behavior="0" />
+    </RootComponents>
+    <MissingDependencies />
+  </SolutionManifest>
+</ImportExportXml>
